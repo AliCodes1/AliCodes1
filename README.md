@@ -20,7 +20,6 @@
 - LinkedIn: LinkedIn Profile(http://linkedin.com/in/muhammad-ali-052908152/)
 - Email: Email(goldenmaster324@gmail.com)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AliCodes1&show_icons=true)
 
 ---
 
