@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello, I'm Muhammad Ali! 👋
 
-<!--
-**AliCodes1/AliCodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 I'm a Software Engineering Student.
+💡 I'm interested in full-stack development and AI.
+🤝 I’m open to Summer & Fall internships.
+🌍 Based in Canada.
 
-Here are some ideas to get you started:
+## My Skills
+- 💻 Languages: C, Java, Javascript, Python, Typescript, R, SQL
+- 🛠 Tools & Frameworks: React.js, Node.js, Express.js, AWS, Pandas, Tailwind CSS, MongoDB, Redux, JUnit, Git, VScode, GitHub, Google Colab, GitLab, Docker, Kubernetes, Postman, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- [Social Networking Full stack Application](https://github.com/AliCodes1/social-network)
+- [Mancal Game with Java OOP](https://github.com/AliCodes1/mancala)
+- [Data Science Project](https://github.com/AliCodes1/US_states_data)
+
+## Contact Me
+- LinkedIn: LinkedIn Profile(http://linkedin.com/in/muhammad-ali-052908152/)
+- Email: Email(goldenmaster324@gmail.com)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AliCodes1&show_icons=true)
+
+---
+
+Thank you for visiting my GitHub profile!
+
